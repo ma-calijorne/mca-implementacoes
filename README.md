@@ -314,4 +314,6 @@ Uso acadêmico e educacional.
 
 # Autor / Contexto
 
-Projeto concebido para ensino universitário de Ciência da Computação, focado em aprendizagem visual de matemática aplicada a algoritmos. Criado por Marco Antônio Calijorne Soares
+Projeto concebido para ensino universitário de Ciência da Computação, focado em aprendizagem visual de matemática aplicada a algoritmos. 
+
+## Criado por Marco Antônio Calijorne Soares
